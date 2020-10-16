@@ -1,6 +1,6 @@
 ## Input Files
 
-> **Note**: The customer should provide the following formatted data in 6 CSV files. The files should then be archived and zipped into a single file e.g. input.tar.gz 
+> **Note**: The customer should provide the following formatted data in CSV files. The files should then be archived and zipped into a single file e.g. input.tar.gz 
 
 - Input: 3 comma separated csv
 - Details for each csv file:
