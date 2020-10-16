@@ -75,4 +75,4 @@
     - Note: if end user do not have optional columns, a column with all missing values shoud be placed.
 
 ## Output
-- Output: a json response containing 'mid_zip5'  with original order, and one more column added named 'score' which contains model's prediction of the compromise score for the record.
+- A json response containing 'mid_zip5' with original order, and one more column added named 'score' which contains model's prediction of the compromise score for the record.
